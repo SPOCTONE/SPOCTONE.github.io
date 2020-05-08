@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    color: white;
+    background-color: #000000;
+  }
+  img {
+    border-radius: 50%;
+  }
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  .heart {
+    color: red;
+    font-size: 22px;
+  }
