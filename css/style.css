@@ -5,7 +5,7 @@
     box-sizing: border-box;
   }
 
-body {
+  body {
     color: white;
     background-color: #000000;
   }
@@ -17,7 +17,92 @@ body {
     text-justify: inter-word;
   }
 
+  .line {
+    color: #fff;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    size: 10px;
+    border-width: 1px;
+  }
+
+  .contactSection {
+    padding-bottom: 20px;
+    background-color: #000;
+    color: #fff;
+    margin-bottom: -4px;
+    margin-top: -4px;
+  }
+  
+  .mailButton{
+    color: #fff;
+    padding: 15px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid #fff;
+    border-radius: 2px;
+  }
+
+  .mailButton {
+    text-decoration: none;
+    font-weight: 600;
+    transition: .4s;
+  }
+  
+  .mailButton:hover {
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #444;
+    transition: .4s;
+    text-decoration: none;
+  }
+
+  .social {
+  margin-top: 40px;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+  }
+
+  .facebook {
+  color: #fff;
+  padding: 6px;
+  }
+
+  .facebook:hover {
+  color: #4171da;
+  }
+ 
+  .github {
+  color: #fff;
+  padding: 6px;
+  }
+
+  .github:hover {
+  color: #0380b9;
+  }
+  
+  .instagram {
+  color: #fff;
+  padding: 6px;
+  }
+
+  .instagram:hover {
+  color: #6492b8;
+  }
+
   .heart {
     color: red;
     font-size: 22px;
   }
+  
+  .creditSection {
+  margin-top: 15px;
+  }
+
+  .creditSection p {
+  margin: 0;
+}
