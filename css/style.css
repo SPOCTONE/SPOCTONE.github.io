@@ -83,6 +83,15 @@
   color: #4171da;
   }
  
+  .linkedin {
+    color: #fff;
+    padding: 6px;
+  }
+  
+  .linkedin:hover {
+    color: #23a9f1;
+  }
+  
   .github {
   color: #fff;
   padding: 6px;
@@ -163,26 +172,6 @@
   height: 3px;
   background: transparent;
   box-shadow: 704px 1339px #FFF , 1562px 1194px #FFF , 1570px 750px #FFF , 1808px 6px #FFF , 1871px 1495px #FFF , 532px 1593px #FFF , 1889px 1870px #FFF , 373px 1898px #FFF , 299px 1403px #FFF , 1610px 1869px #FFF , 1049px 1866px #FFF , 1144px 440px #FFF , 1667px 652px #FFF , 176px 1452px #FFF , 934px 34px #FFF , 252px 1266px #FFF , 535px 1252px #FFF , 1261px 1651px #FFF , 1252px 270px #FFF , 1416px 1294px #FFF , 637px 80px #FFF , 1897px 1353px #FFF , 1382px 1370px #FFF , 5px 1075px #FFF , 1802px 910px #FFF , 763px 1633px #FFF , 539px 876px #FFF , 1543px 104px #FFF , 1033px 1480px #FFF , 1906px 534px #FFF , 328px 1471px #FFF , 471px 1918px #FFF , 875px 812px #FFF , 339px 725px #FFF , 1086px 916px #FFF , 1728px 1705px #FFF , 1997px 1184px #FFF , 1433px 184px #FFF , 1298px 277px #FFF , 1284px 753px #FFF , 1792px 92px #FFF , 132px 1848px #FFF , 1692px 836px #FFF , 1313px 187px #FFF , 419px 153px #FFF , 74px 258px #FFF , 936px 266px #FFF , 1940px 1854px #FFF , 1105px 1041px #FFF , 1501px 130px #FFF , 1633px 981px #FFF , 1717px 853px #FFF , 110px 32px #FFF , 1718px 749px #FFF , 805px 261px #FFF , 483px 1334px #FFF , 1347px 1886px #FFF , 743px 122px #FFF , 1901px 1581px #FFF , 84px 1715px #FFF , 974px 1811px #FFF , 1769px 1747px #FFF , 1308px 815px #FFF , 1710px 680px #FFF , 1483px 1158px #FFF , 1971px 790px #FFF , 1305px 1101px #FFF , 576px 1014px #FFF , 665px 1090px #FFF , 1780px 867px #FFF , 520px 303px #FFF , 465px 1203px #FFF , 1721px 1003px #FFF , 1416px 1153px #FFF , 991px 1808px #FFF , 129px 1897px #FFF , 709px 1932px #FFF , 110px 1890px #FFF , 626px 1038px #FFF , 693px 1552px #FFF , 1543px 1334px #FFF , 1298px 470px #FFF , 1407px 687px #FFF , 274px 1624px #FFF , 216px 143px #FFF , 482px 593px #FFF , 1334px 1105px #FFF , 17px 1776px #FFF , 1766px 1598px #FFF , 612px 1747px #FFF , 1022px 265px #FFF , 1659px 1520px #FFF , 1194px 1158px #FFF , 414px 773px #FFF , 1879px 83px #FFF , 865px 1586px #FFF , 1315px 1268px #FFF , 960px 1640px #FFF , 1237px 627px #FFF , 1817px 820px #FFF;
-}
-
-#title {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  color: #FFF;
-  text-align: center;
-  font-family: "lato", sans-serif;
-  font-weight: 300;
-  font-size: 50px;
-  letter-spacing: 10px;
-  margin-top: -60px;
-  padding-left: 10px;
-}
-#title span {
-  background: -webkit-linear-gradient(white, #38495a);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 @keyframes animStar {
